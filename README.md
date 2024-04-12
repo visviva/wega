@@ -1,3 +1,4 @@
+[![Rust](https://github.com/visviva/wega/actions/workflows/rust.yml/badge.svg)](https://github.com/visviva/wega/actions/workflows/rust.yml)
 # Wega - Multi-Scale Image Analysis
 
 This application can be used to transform images into multiple signals. For example, for space images, the image is split into layers containing small scale background structures like small stars, medium scale structures like the arms of a galaxy and large scale structures like the core of a galaxy.
